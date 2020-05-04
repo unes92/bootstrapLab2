@@ -1,0 +1,36 @@
+
+.center
+{
+  text-align: center;
+}
+
+
+h1 
+{
+
+  text-align: center;
+  
+}
+
+#r3
+{
+
+margin: 5% auto;
+
+}
+
+
+
+
+
+#sympa
+{
+
+  text-align: right;
+}
+
+@media screen and (min-width: 480px) and (max-width: 720px) {
+  img {
+      display: none;
+  }
+}
